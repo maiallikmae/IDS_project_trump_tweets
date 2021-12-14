@@ -1,6 +1,8 @@
 ## IDS_project_trump_tweets Group D17
 D17Trump_twitter_code.ipynb – Project code
 
+D17_Trump-tweets_poster.pdf - Project poster
+
 D17_report.pdf – Project report
 
 tweets1.csv – Intermediate results containing sentiment tag and 100 topics
